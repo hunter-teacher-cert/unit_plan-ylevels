@@ -43,16 +43,16 @@ Describe the steps taken and choices made to design and develop a solution using
 Total length: 2 Weeks
 
 (list each lesson with main topic(s))
-1 - Intro to the Agent I (Basic Moves)
-2 - Intro to the Agent II (Simple Tasks)
-3 - Algorithms and Pattern Recognition 
-4 - Loops and Conditions
-5 - Loops and Nested Loops
-6 - Creating and Testing a Program
-7 - Working collaboratively on a Build (Planning)
-8 - Working collaboratively on a Build (Design)
-9 - Working collaboratively on a Build (Test)
-10 - Working collaboratively on a Build (Present)
+1. Intro to the Agent I (Basic Moves)
+2. Intro to the Agent II (Simple Tasks)
+3. Algorithms and Pattern Recognition 
+4. Loops and Conditions
+5. Loops and Nested Loops
+6. Creating and Testing a Program
+7. Working collaboratively on a Build (Planning)
+8. Working collaboratively on a Build (Design)
+9. Working collaboratively on a Build (Test)
+10. Working collaboratively on a Build (Present)
 
 ---
 
